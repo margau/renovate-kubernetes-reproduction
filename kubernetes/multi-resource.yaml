@@ -20,6 +20,6 @@ spec:
         app: example
     spec:
       containers:
-        - image: quay.io/keycloak/keycloak-operator:26.0.7
+        - image: quay.io/keycloak/keycloak-operator:26.3.2@sha256:82909742eab2fc6d6cde0654f8ba127009446fbc2e5283be8fe39d2c60c6aeb6
           imagePullPolicy: Always
           
