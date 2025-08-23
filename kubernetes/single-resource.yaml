@@ -13,7 +13,7 @@ spec:
         app: example
     spec:
       containers:
-      - image: docker.io/bitnami/phpmyadmin:5.2.2-debian-12-r18
+      - image: docker.io/bitnami/phpmyadmin:5.2.2-debian-12-r23@sha256:0bbcb4b7d50aae2855201798529953a1504332f3a5aeeaaa4beee802910293fe
         imagePullPolicy: IfNotPresent
         
         
